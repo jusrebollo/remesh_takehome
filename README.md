@@ -9,7 +9,7 @@ Please follow the instructions below:
 
 1. Download the project files and ensure data.json and data_visualization.py are in the same directory 
 2. Open data_visualization.py in your favorite IDE or terminal/command line, ensuring data.json is in the same directory
-3. Ensure you have all of the relevant modules imported: json, pathlib, plotly.express, and dash
+3. Ensure you have all of the relevant modules imported: json, pathlib, pandas, plotly.express, and dash
 4. Once you have all of the modules imported, run data_visualization.py
 5. When you run data_visualization.py, the program will output this with your local host in place of your_local_host_ip_and_port: 
 
