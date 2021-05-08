@@ -1,7 +1,7 @@
 # remesh_takehome
 Remesh Take Home project-- Twitter Data Visualization 
 
-![Screen Shot 2021-05-07 at 7 29 17 PM](https://user-images.githubusercontent.com/25694681/117517620-9409da80-af6a-11eb-9b60-e3ca0baec5f8.png)
+![Screen Shot 2021-05-07 at 8 14 43 PM](https://user-images.githubusercontent.com/25694681/117519287-f665d980-af70-11eb-8d32-1c8ed544eb85.png)
 
 This is my app for the data visualization take home project. For this project, I used Plotly Express and Dash to create an interactive visualization. 
 
