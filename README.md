@@ -16,8 +16,6 @@ Please follow the instructions below:
 "
 Dash is running on http:// your_local_host_ip_and_port
 
-Dash is running on http:// your_local_host_ip_and_port
-
  * Serving Flask app "data_visualization" (lazy loading)
  * Environment: production
    WARNING: This is a development server. Do not use it in a production deployment.
