@@ -1,5 +1,5 @@
 # remesh_takehome
-Remesh Take Home project-- Twitter Data Visualization 
+Remesh -- Twitter Data Visualization 
 
 ![Screen Shot 2021-05-07 at 8 14 43 PM](https://user-images.githubusercontent.com/25694681/117519287-f665d980-af70-11eb-8d32-1c8ed544eb85.png)
 
